@@ -1,0 +1,23 @@
+table{
+	border: 1px solid black;
+	border-spacing: 0px;
+}
+
+tr,td,th{
+	border: 1px solid black;
+	border-spacing: 0px;
+	height: 50px;
+	width: 50px;
+}
+.box {
+	text-align: center;
+	background-color: white;
+}
+.m{
+	text-align: right;
+	background-color: black;
+	color:white;
+}
+.n{
+	background-color: orange;
+}
