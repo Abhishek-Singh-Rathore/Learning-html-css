@@ -1,0 +1,43 @@
+.ring{
+    border: 20px solid black;
+    border-radius: 50%;	
+}
+.mea{
+   height:280px;
+   width:280px;
+   border-color:mediumseagreen;
+   margin-top:200px;
+}
+.aqu{
+   height:240px;
+   width:240px;
+   border-color:hotpink;
+}
+.yel{
+   height:200px;
+   width:200px;
+   border-color:yellow;
+}
+.red{
+   height:160px;
+   width:160px;
+   border-color:red;
+}
+.gre{
+   height:120px;
+   width:120px;
+   border-color:green;
+}
+.blu{
+   height:80px;
+   width:80px;
+   border-color:blue;
+}
+.bla{
+   height:40px;
+   width:40px;
+   border-color:cyan;
+}
+body{
+   background-color: black;
+}
