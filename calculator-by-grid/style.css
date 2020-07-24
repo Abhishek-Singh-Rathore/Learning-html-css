@@ -1,0 +1,28 @@
+.container{
+	background-color:white;
+	display:grid;
+	grid-gap:0px;
+	grid-template-columns:50px 50px 50px 50px;
+	grid-template-rows:50px 50px 50px 50px 50px 50px;
+}
+.box{
+ 	border: 1px solid black;
+ 	text-align: center;	
+ 	font-size: 2em;
+ 	padding-top:5px;
+}
+.sol{
+	color:white;
+	background-color:black;
+	grid-column:1/-1;
+	text-align:right;
+}
+.c{
+	grid-column: 1/3;
+}
+.o{
+	grid-column:1/3; 
+}
+.p{
+	background-color: orange;
+}
