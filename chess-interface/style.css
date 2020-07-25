@@ -1,0 +1,14 @@
+.container{
+	display:grid;
+	grid-template-columns: repeat(8,75px);
+	grid-template-rows: repeat(8,75px);
+}
+.box{
+	border:1px solid black;
+}
+.bl{
+	background-color: black;
+}
+.wh{
+	background-color: white;
+}
